@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Developer;Game+Developer;Love+to+learn+new+stuffs..<3"></a>
 </p>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -13,7 +13,6 @@
 
 - A passionate Self-taught Front-end and Backend developer
 - Currently learning Web Development by Self
-- Personal website [Link Here](https://srdyw.github.io/personal-portfolio/)
 - I’m currently open for a new job opportunity
 
 <br><br>
