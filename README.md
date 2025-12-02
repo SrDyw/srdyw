@@ -14,6 +14,7 @@
 - A passionate Self-taught Front-end and Backend developer
 - Currently learning Web Development by Self
 - I’m currently open for a new job opportunity
+- I love the gamedev arae, specially with Unity 
 
 <br><br>
 
@@ -44,10 +45,11 @@
 
 <div align="center">
 
-<a href="https://github.com/SrDyw/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrDyw&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+![](https://github-readme-stats.vercel.app/api?username=srdyw&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=srdyw&theme=radical&hide_border=false)
+<br/>
 
-</a>
 </div>
 
 <br>
