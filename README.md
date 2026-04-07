@@ -81,7 +81,6 @@ Here's how I actually use AI:
 ### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/Blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
   <img src="https://img.shields.io/badge/REST%20APIs-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs">
