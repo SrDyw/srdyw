@@ -34,6 +34,7 @@
 - 🌍 Based in **La Habana, Cuba**
 - 🤖 Using AI as a force multiplier — not as a crutch
 - 💼 Open to new job opportunities — let's build something great!
+- ✉️ Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="107d7471697e79757c26242250777d71797c3e737f7d">[email&#160;protected]</a>**
 - 🌐 Check out my portfolio: **[dayniel-martinez.vercel.app](https://dayniel-martinez.vercel.app/)**
 
 <br clear="right"/>
@@ -80,6 +81,7 @@ Here's how I actually use AI:
 ### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/Blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
   <img src="https://img.shields.io/badge/REST%20APIs-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs">
@@ -137,12 +139,12 @@ Here's how I actually use AI:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srdyw&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Dayniel's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srdyw&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=srdyw&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="Dayniel's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srdyw&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srdyw&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=srdyw&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
