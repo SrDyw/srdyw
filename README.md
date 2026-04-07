@@ -34,7 +34,6 @@
 - 🌍 Based in **La Habana, Cuba**
 - 🤖 Using AI as a force multiplier — not as a crutch
 - 💼 Open to new job opportunities — let's build something great!
-- ✉️ Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="107d7471697e79757c26242250777d71797c3e737f7d">[email&#160;protected]</a>**
 - 🌐 Check out my portfolio: **[dayniel-martinez.vercel.app](https://dayniel-martinez.vercel.app/)**
 
 <br clear="right"/>
