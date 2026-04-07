@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/dayniel-martinez-rodriguez-389911276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:mdayniel642@gmail.com" target="_blank">
+  <a href="/cdn-cgi/l/email-protection#fa979e9b8394939f96cccec8ba9d979b9396d4999597" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
@@ -34,7 +34,7 @@
 - 🌍 Based in **La Habana, Cuba**
 - 🤖 Using AI as a force multiplier — not as a crutch
 - 💼 Open to new job opportunities — let's build something great!
-- ✉️ Reach me at **mdayniel642@gmail.com**
+- ✉️ Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="107d7471697e79757c26242250777d71797c3e737f7d">[email&#160;protected]</a>**
 - 🌐 Check out my portfolio: **[dayniel-martinez.vercel.app](https://dayniel-martinez.vercel.app/)**
 
 <br clear="right"/>
@@ -138,21 +138,18 @@ Here's how I actually use AI:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=srdyw&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Dayniel's GitHub Stats" height="180"/>
-  &nbsp;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srdyw&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Dayniel's GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srdyw&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srdyw&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=srdyw&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srdyw&theme=redical&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srdyw&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -170,7 +167,7 @@ Here's how I actually use AI:
     <img src="https://img.shields.io/badge/LinkedIn-Dayniel%20Martínez-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="mailto:mdayniel642@gmail.com" target="_blank">
+  <a href="/cdn-cgi/l/email-protection#244940455d4a4d4148121016644349454d480a474b49" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-mdayniel642-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
@@ -179,11 +176,4 @@ Here's how I actually use AI:
 <br>
 
 <div align="center">
-  <i>✨ Let's create our own universe... one commit at a time ✨</i>
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Last updated: April 2026 · Credit: inspired by <a href="https://github.com/0xabdulkhalid">Abdul Khalid</a></sub>
-</div>
+  <i>✨ Let's create
