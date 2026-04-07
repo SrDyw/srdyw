@@ -140,7 +140,7 @@ Here's how I actually use AI:
 
 <p align="center">
   <img src="https://github-readme-stats-eta-one-32.vercel.app/api?username=srdyw&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="Dayniel's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srdyw&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-eta-one-32.vercel.app/api/top-langs/?username=srdyw&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
