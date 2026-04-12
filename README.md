@@ -25,10 +25,6 @@
 
 ## 🧑‍💻 About Me
 
-<picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
-</picture>
-
 - 🚀 **Fullstack Developer** with 5+ years of experience building web apps and video games
 - 🎮 Game dev enthusiast, especially with **Unity & C#**
 - 🌍 Based in **La Habana, Cuba**
