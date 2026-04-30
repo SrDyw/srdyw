@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/dayniel-martinez-rodriguez-389911276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="/cdn-cgi/l/email-protection#fa979e9b8394939f96cccec8ba9d979b9396d4999597" target="_blank">
+  <a href="mailto:mdayniel642@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
@@ -30,7 +30,7 @@
 - 🌍 Based in **La Habana, Cuba**
 - 🤖 Using AI as a force multiplier — not as a crutch
 - 💼 Open to new job opportunities — let's build something great!
-- ✉️ Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="107d7471697e79757c26242250777d71797c3e737f7d">[email&#160;protected]</a>**
+- ✉️ Reach me at **mdayniel642@gmail.com**
 - 🌐 Check out my portfolio: **[dayniel-martinez.vercel.app](https://dayniel-martinez.vercel.app/)**
 
 <br clear="right"/>
@@ -118,8 +118,11 @@ Here's how I actually use AI:
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | **QuickChat** | Real-time chat with private rooms, auth & push notifications | Next.js · Pusher · TypeScript | [Demo](https://realtime-chat-bay.vercel.app) · [Code](https://github.com/SrDyw/realtime-chat) |
-| **FlowBoard** | Full Kanban board built in 3 days | Blazor · MudBlazor · .NET · C# | [Demo](https://flowboard.vercel.app) |
-| **Portfolio Generator** | Tool to create custom portfolios with PDF export | Next.js · Prisma · PostgreSQL | — |
+| **KANVAX** | Full Kanban board built in just 3 days with auth, drag & drop & logs | Blazor · MudBlazor · .NET · C# | [Code](https://github.com/daynielm/kanvax) |
+| **TechStore** | E-commerce with catalog, search, filters, cart & Fluent Design | Next.js 15 · TypeScript · Tailwind v4 · Zustand | [Demo](https://tech-com-plum.vercel.app/) |
+| **GDCuba-Rank** | Geometry Dash Cuba community rankings with accounts & leaderboards | Next.js 15 · TypeScript · PostgreSQL · Redis | [Demo](https://gdcuba.vercel.app) · [Code](https://github.com/Alejandro-Figureiras/GDCuba-Rank) |
+| **Raiza** | 2D Metroidvania platformer inspired by Hollow Knight & Celeste | Unity · C# | — |
+| **Cosxs** | Couples mobile app with mood diary, shared calendar, tasks & real-time chat | Unity 6 · C# · Mobile · URP | — |
 
 <p align="center">
   <a href="https://dayniel-martinez.vercel.app/#projects">
@@ -132,7 +135,6 @@ Here's how I actually use AI:
 ---
 
 ## 📊 GitHub Stats
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=srdyw&theme=radical&hide_border=true" alt="GitHub Streak"/>
@@ -158,8 +160,8 @@ Here's how I actually use AI:
     <img src="https://img.shields.io/badge/LinkedIn-Dayniel%20Martínez-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="/cdn-cgi/l/email-protection#244940455d4a4d4148121016644349454d480a474b49" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-mdayniel642-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:mdayniel642@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-mdayniel642%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
 </div>
@@ -167,4 +169,5 @@ Here's how I actually use AI:
 <br>
 
 <div align="center">
-  <i>✨ Let's create
+  <i>✨ Let's create something amazing together!</i>
+</div>
